@@ -171,4 +171,4 @@ cython_debug/
 .pypirc
 
 # Other
-.DC_Store
+.DS_Store
